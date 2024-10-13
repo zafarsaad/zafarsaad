@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zafarsaad
-- 👀 I’m interested in learning Full-Stack Web Development.
+- 👀 I’m interested in Full-Stack Web Development.
 - 🌱 I’m in love with ReactJS, React Native, NodeJS & Express.
 - 💞️ I’m looking to collaborate on Full-Stack application projects.
 - 📫 Send a message to collaborate!
